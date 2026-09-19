@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Test Controller",
+  "description": "Bluetooth ve BLE cihazları için test, tarama ve uzaktan kontrol aracı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
